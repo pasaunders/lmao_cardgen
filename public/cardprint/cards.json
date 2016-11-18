@@ -1,0 +1,5 @@
+{"cards":[
+    {"name": "pistol", "range":10, "description": "abc"},
+    {"name": "rifle", "range":20, "description": "abc"},
+    {"name": "Rush", "description": "During another's turn, you can attempt to take your next turn early.<ol><li>Make a REFLEX roll</li><li>On success, take next turn immediately.</li><li>On fail, take lose next turn.</li></ol>"}
+]}
