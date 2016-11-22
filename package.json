@@ -5,11 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "seed":  "node script/seed.js"
+    "seed": "node script/seed.js"
   },
   "author": "Patrick Saunders & David Husa",
   "license": "UNLICENSED",
   "dependencies": {
+    "bluebird": "^3.4.6",
     "express": "^4.14.0",
     "mongodb": "^2.2.11",
     "mongoose": "^4.6.8"
